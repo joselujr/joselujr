@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋, soy Jose Luis Rodriguez</h1>
-<h3 align="center">Desarrollador Full Stack | Cursando Máster en Desarrollo con IA</h3>
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/eb2a9594-1d4e-4eff-9857-313e8a2dd71a" />
 
 
 ---
